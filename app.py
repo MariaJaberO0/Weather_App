@@ -1,4 +1,4 @@
-print("hello")
+print("hello1")
 print(6*12)
 #my first app
 name =""
